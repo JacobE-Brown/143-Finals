@@ -5,8 +5,8 @@
 </script>
 
 <template>
-    <main class="h-screen">
-        <div class="flex justify-center items-center h-full">
+    <main class="bg-zinc-600  py-8">
+        <div class="flex justify-center items-center h-fit ">
             <section
                 class="bg-zinc-400 container rounded-lg overflow-hidden p-5"
             >

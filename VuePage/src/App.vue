@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  <div class=" bg-zinc-600">
+  <div class=" ">
     <Navbar />
     <HomePage />
   </div>
